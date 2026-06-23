@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MainTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.996 s <<< FAILURE! - in MainTest
+testBedAccessModifiers  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.NoSuchFieldException: quilts
+	at MainTest.testBedAccessModifiers(MainTest.java:77)
+
