@@ -1,0 +1,9 @@
+org\example\model\Bread.class
+org\example\rpg\Monster.class
+org\example\rpg\Poisonable.class
+org\example\rpg\Troll.class
+org\example\model\Store.class
+org\example\model\Coke.class
+org\example\model\ProductForSale.class
+org\example\model\Chocolate.class
+org\example\rpg\Bleedable.class
