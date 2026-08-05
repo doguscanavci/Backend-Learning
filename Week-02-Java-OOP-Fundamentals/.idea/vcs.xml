@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-Java-OOP-Inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-Java-OOP-Composition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-Java-OOP-Polymorphism" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-Week-Challenge" vcs="Git" />
+  </component>
+</project>
